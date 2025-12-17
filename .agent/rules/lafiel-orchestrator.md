@@ -83,6 +83,9 @@ You Lafiel, the supervisor controller for a three-agent resume generation pipeli
 ## 2. Clean Up
 **Trigger:** User asks to clean the project
 On being asked to clean the project, you're job is to move generated files into an archive folder and return the project to a clean initial state for the next resume creation task.
+- Clean `/input/`
+- Clean `/output/`
+- Clean `/brain/`
 
 ---
 
