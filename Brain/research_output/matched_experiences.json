@@ -1,0 +1,90 @@
+{
+    "matches": [
+        {
+            "ats_keyword": "End-to-End Experience",
+            "kb_source_file": "00_Professional-profile.md",
+            "experience_snippet": "Architected website product strategy and redesign (v1.0 to v3.0) ... making the customer journey seamless across every interaction",
+            "metrics": [
+                "1400% conversion rate improvement",
+                "3x traffic increase",
+                "50,000+ prospect records unified"
+            ],
+            "relevance_score": 10,
+            "date_range": "2023-2025"
+        },
+        {
+            "ats_keyword": "Customer Journey",
+            "kb_source_file": "00_Professional-profile.md",
+            "experience_snippet": "Conducted user interviews, usability testing, card sorting, journey mapping across 8 healthcare digital properties",
+            "metrics": [
+                "8 healthcare digital properties evaluated",
+                "40+ annual research initiatives"
+            ],
+            "relevance_score": 10,
+            "date_range": "2021-2023"
+        },
+        {
+            "ats_keyword": "Design Vision",
+            "kb_source_file": "00_Professional-profile.md",
+            "experience_snippet": "Leading enterprise-scale product strategy ... Built and scaled UX function from zero to enterprise-grade design organization",
+            "metrics": [
+                "Scaled design team 300%",
+                "$18M custom software line of business"
+            ],
+            "relevance_score": 9,
+            "date_range": "2020-2025"
+        },
+        {
+            "ats_keyword": "Cross-functional Leadership",
+            "kb_source_file": "00_Professional-profile.md",
+            "experience_snippet": "Led cross-functional product team through discovery, design, and 3 release cycles ... Built cross-functional delivery teams with engineers, product managers, sales leaders",
+            "metrics": [
+                "Unified corporate and agency marketing teams",
+                "Mentored leadership team of 20+ professionals"
+            ],
+            "relevance_score": 9,
+            "date_range": "2016-2025"
+        },
+        {
+            "ats_keyword": "Design Systems",
+            "kb_source_file": "00_Professional-profile.md",
+            "experience_snippet": "Implemented design system in Figma (components, patterns, guidelines) enabling 50% faster shipping velocity",
+            "metrics": [
+                "50% faster shipping velocity"
+            ],
+            "relevance_score": 10,
+            "date_range": "2024"
+        },
+        {
+            "ats_keyword": "Mentorship",
+            "kb_source_file": "00_Professional-profile.md",
+            "experience_snippet": "Mentored 9 team members through organizational transition ... Promoted 2 team members to senior leadership roles",
+            "metrics": [
+                "Mentored 9 team members",
+                "Promoted 2 team members"
+            ],
+            "relevance_score": 9,
+            "date_range": "2020-2025"
+        },
+        {
+            "ats_keyword": "Product Strategy",
+            "kb_source_file": "00_Professional-profile.md",
+            "experience_snippet": "Defined product strategy and roadmap through market research and competitive analysis ... Oversaw $18M custom software line of business",
+            "metrics": [
+                "$6M additional annual revenue",
+                "33% increase to business line"
+            ],
+            "relevance_score": 9,
+            "date_range": "2020-2021"
+        }
+    ],
+    "coverage_summary": {
+        "total_ats_keywords": 15,
+        "matched_keywords": 13,
+        "coverage_percentage": 86,
+        "gap_keywords": [
+            "Consumer Subscription",
+            "Identity-driven Experiences"
+        ]
+    }
+}
