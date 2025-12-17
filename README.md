@@ -4,9 +4,12 @@
 
 An open-source, AI-driven workflow for generating ATS-optimized, expertly written resumes. This tool uses a multi-agent system (Researcher, Writer, Reviewer) to craft resumes that are tailored to specific job descriptions while staying true to your actual experience.
 
+## The Goal 🎯
+**To create tailored, factually accurate resumes that consistently achieve an ATS (Applicant Tracking System) score of 85 or higher.** We believe you shouldn't have to choose between a resume that passes the robot and one that reads well for a human. This workflow ensures both.
+
 ## Overview
 
-Applying for jobs is tedious. Tailoring your resume for eveery single application is even worse. This tool automates the heavy lifting:
+Applying for jobs is tedious. Tailoring your resume for every single application is even worse. This tool automates the heavy lifting:
 
 1.  🎼 **Orchestrator**: Manages the workflow and ensures quality gates are met.
 2.  🔍 **Researcher**: Analyzes the Job Description, extracts ATS keywords, and finds matching evidence in your Knowledge Base.
@@ -64,4 +67,13 @@ The system relies on a "Truth Source" to write your resume. It will **never** in
 -   `.agent/`: Internal system prompts and workflows.
 
 ## License
-[License Name/Type]
+Distributed under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.
+See `LICENSE` for more information.
+
+This project is available for **personal, non-commercial use only**.
+
+However, community collaboration is the core of this project! You are **highly encouraged** to:
+- 🍴 **Fork** this repository and tailor it to your specific industry or needs.
+- 🔧 **Submit Pull Requests** with improvements, new agent behaviors, or better prompts.
+
+Let's build the best open-source career tool together!
