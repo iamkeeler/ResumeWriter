@@ -8,10 +8,10 @@ An open-source, AI-driven workflow for generating ATS-optimized, expertly writte
 
 Applying for jobs is tedious. Tailoring your resume for eveery single application is even worse. This tool automates the heavy lifting:
 
-1.  **Orchestrator**: Manages the workflow and ensures quality gates are met.
-2.  **Researcher**: Analyzes the Job Description, extracts ATS keywords, and finds matching evidence in your Knowledge Base.
-3.  **Writer**: Drafts a compelling, formatted resume based on the research.
-4.  **Reviewer**: Acts as a strict quality assurance step, checking for ATS compliance, factual accuracy, and fabrication risks.
+1.  🎼 **Orchestrator**: Manages the workflow and ensures quality gates are met.
+2.  🔍 **Researcher**: Analyzes the Job Description, extracts ATS keywords, and finds matching evidence in your Knowledge Base.
+3.  ✍️ **Writer**: Drafts a compelling, formatted resume based on the research.
+4.  🧐 **Reviewer**: Acts as a strict quality assurance step, checking for ATS compliance, factual accuracy, and fabrication risks.
 
 ```mermaid
 graph TD
