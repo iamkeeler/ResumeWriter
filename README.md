@@ -1,3 +1,5 @@
+![Lafiel Agent](img/lafiel-img.webp)
+
 # Resume Writer Agent
 
 An open-source, AI-driven workflow for generating ATS-optimized, expertly written resumes. This tool uses a multi-agent system (Researcher, Writer, Reviewer) to craft resumes that are tailored to specific job descriptions while staying true to your actual experience.
@@ -10,6 +12,27 @@ Applying for jobs is tedious. Tailoring your resume for eveery single applicatio
 2.  **Researcher**: Analyzes the Job Description, extracts ATS keywords, and finds matching evidence in your Knowledge Base.
 3.  **Writer**: Drafts a compelling, formatted resume based on the research.
 4.  **Reviewer**: Acts as a strict quality assurance step, checking for ATS compliance, factual accuracy, and fabrication risks.
+
+```mermaid
+graph TD
+    User([User]) -->|1. Job Description| Input[Input/]
+    Input -->|Trigger| Orch{Orchestrator}
+    
+    subgraph Agents
+        Orch -->|Phase 1| Res[Researcher]
+        Res <-->|Search| KB[(Knowledge Base)]
+        Res -->|Keywords & Matches| Brain[(Brain)]
+        
+        Orch -->|Phase 2| Write[Writer]
+        Brain -->|Context| Write
+        
+        Orch -->|Phase 3| Rev[Reviewer]
+        Write -->|Draft| Rev
+    end
+    
+    Rev -->|Final Output| Output[Output/]
+    Output -->|Resume & Report| User
+```
 
 ## Getting Started
 
