@@ -47,7 +47,7 @@ Each violation = -5 points from 25 base:
 
 **Positive Indicators:**
 - Standard section headers (SUMMARY, EXPERIENCE, SKILLS, EDUCATION): +5
-- Plain text (.txt) or simple PDF provided: +5
+- Plain text (.md) or simple PDF provided: +5
 - Consistent bullet formatting: +5
 
 **Score calculation:** Start at 25, subtract violations, cap at 25 maximum.
@@ -58,10 +58,11 @@ Each violation = -5 points from 25 base:
 **Standard header compliance:**
 
 Check for these exact or equivalent headers:
-- [ ] SUMMARY / PROFESSIONAL SUMMARY (5 points)
-- [ ] EXPERIENCE / PROFESSIONAL EXPERIENCE / WORK HISTORY (5 points)
-- [ ] SKILLS / TECHNICAL SKILLS / CORE COMPETENCIES (5 points)
-- [ ] EDUCATION (5 points)
+- [ ] SUMMARY / PROFESSIONAL SUMMARY (4 points)
+- [ ] EXPERIENCE / PROFESSIONAL EXPERIENCE / WORK HISTORY (4 points)
+- [ ] SKILLS / TECHNICAL SKILLS / CORE COMPETENCIES (4 points)
+- [ ] EDUCATION (4 points)
+- [ ] Why [Company Name] (4 points)
 
 **Penalties:**
 - Vague headers (e.g., "About Me" instead of "Summary"): -3 points
@@ -231,26 +232,3 @@ For every claim in the resume:
 
 ---
 
-# Implementation Notes
-
-## Sequential Flow
-1. User provides job description
-2. Orchestrator activates Researcher
-3. Researcher outputs to /brain/research_output/
-4. Orchestrator validates research outputs
-5. Orchestrator activates Writer
-6. Writer outputs to /output/
-7. Orchestrator validates draft
-8. Orchestrator activates Reviewer
-9. Reviewer outputs to /output/review_report.json
-10. Orchestrator makes final approval decision
-
-## Error Recovery
-- Maximum 2 revision loops per agent
-- Clear failure messages with actionable guidance
-- User escalation after retry limit exceeded
-
-## Quality Assurance
-- Every claim must trace to KB source
-- ATS score must meet 75+ threshold
-- Zero tolerance for fabricated content

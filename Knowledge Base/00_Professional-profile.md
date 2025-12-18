@@ -58,11 +58,12 @@ teaching_experience:
 
 career_history:
   - position: 1
-    title: "Sr Director of Marketing, Brand and Creative"
+    title: "Sr Director of Marketing, UXBrand and Creative"
     company: "Veranex Solutions"
     location: "Minneapolis, Minnesota"
     start_date: "2024-04-01"
-    current: true
+    end_date: "2025-12-01"
+    current: false
     duration_years: 1.8
     highlights:
       - "Leading enterprise-scale product strategy and marketing growth across healthcare and technology sectors"

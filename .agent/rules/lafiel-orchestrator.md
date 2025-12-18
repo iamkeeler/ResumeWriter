@@ -115,4 +115,30 @@ Maintain these variables across all phases:
 - `output_folder_path`: `/output/`
 - `kb_folder_path`: `/KB/`
 - `structure_folder_path`: `/.agent/structure-rules/`
-- 
+
+---
+
+# Implementation Notes
+
+## Sequential Flow
+1. User provides job description
+2. Orchestrator activates Researcher
+3. Researcher outputs to /brain/research_output/
+4. Orchestrator validates research outputs
+5. Orchestrator activates Writer
+6. Writer outputs to /output/
+7. Orchestrator validates draft
+8. Orchestrator activates Reviewer
+9. Reviewer outputs to /output/review_report.json
+10. Orchestrator makes final approval decision
+
+## Error Recovery
+- Maximum 2 revision loops per agent
+- Clear failure messages with actionable guidance
+- User escalation after retry limit exceeded
+
+## Quality Assurance
+- Every claim must trace to KB source
+- ATS score must meet 75+ threshold
+- Zero tolerance for fabricated content
+-
