@@ -48,6 +48,8 @@ Follow Structure and guidelines in `/agent/structure-rules/format_template.md`
 - **Simple bullet points:** Use standard dash (-) or bullet (â€¢)
 - **No text boxes or columns** - Single column layout only
 - **File formats:** Output both .md (ATS-safe) and .pdf (human-readable)
+  - **PDF Generation (Primary):** Use custom LaTeX template: `pandoc "resume.md" -o "resume.pdf" --template=/.agent/rules/structure-rules/resume-template.tex --pdf-engine=xelatex`
+  - **PDF Generation (Fallback):** If template fails, use YAML defaults: `pandoc "resume.md" -o "resume.pdf" --defaults=/.agent/rules/structure-rules/pdf-format.yaml --pdf-engine=xelatex`
 
 **Spacing:**
 - Single space between bullets
@@ -78,7 +80,7 @@ Pattern: Role + Experience + Domain expertise + Quantified proof points
 ## Output & Completion Signal
 
 **File Outputs:**
-1. `/output/[First Name Last Name] - [JobCompany].pdf` - Formatted, human-readable version with the users name and the company they are writing the resume for filled in
+1. `/output/[First Name Last Name] - [JobCompany].pdf` - Formatted, human-readable version with the users name and the company they are writing the resume for filled in. Use `.../structure-rules/pdf-format.yaml` as the formatting rules
 2. `/output/[First Name Last Name] - [JobCompany].md` - Plain text, ATS-optimized version with the users name and the company they are writing the resume for filled in
 3. `/output/metadata.json` - Keyword tracking
 
@@ -91,7 +93,7 @@ Pattern: Role + Experience + Domain expertise + Quantified proof points
   "keyword_integration_rate": 0.78,
   "total_word_count": 450,
   "experiences_sourced": [
-    {"kb_file": "00_Professional-profile-perplexity.md", "count": 8}
+    {"kb_file": "00_Professional-profile.md", "count": 8}
   ],
   "fabrication_risk_items": []
 }
@@ -103,8 +105,8 @@ Pattern: Role + Experience + Domain expertise + Quantified proof points
   "status": "draft_complete",
   "completion": true,
   "outputs": {
-    "resume_pdf": "/output/resume_draft.pdf",
-    "resume_txt": "/output/resume_draft.md",
+    "resume_pdf": "/output/[First Name Last Name] - [JobCompany].pdf",
+    "resume_md": "/output/[First Name Last Name] - [JobCompany].md",
     "metadata": "/output/metadata.json"
   },
   "metrics": {

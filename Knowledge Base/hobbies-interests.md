@@ -21,7 +21,7 @@ downloadable: false
 *   **Daily Habit:** Always carries pen and paper for sketching and capturing inspiration in the moment.
 
 ### Community & Faith Leadership
-*   **Podcast Production:** Producer for *Hearts for the Kingdom*, a Christian life podcast hosted by his wife.
+*   **Podcast Production:** Producer for *Hearts for the Kingdom*, a Christian life podcast hosted by his wife. (Since 3/18/24)
     *   **Role:** Handles full-stack digital production: audio engineering (cleaning/processing), distribution channel management (Spotify, Apple, Amazon), graphic design, and marketing asset creation.
     *   **Professional Synergy:** Leveraged this personal podcasting experience to successfully launch a corporate podcast initiative at work.
 *   **Volunteer Leadership:**

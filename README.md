@@ -8,6 +8,7 @@ An open-source, AI-driven workflow for generating ATS-optimized, expertly writte
 - [The Goal 🎯](#the-goal-)
 - [Overview](#overview)
 - [Getting Started](#getting-started)
+- [IDE Configuration](#ide-configuration)
 - [Directory Structure](#directory-structure)
 - [License](#license)
 - [Contact](#contact)
@@ -67,6 +68,74 @@ The system relies on a "Truth Source" to write your resume. It will **never** in
 3.  **Output**:
     -   Drafts and reports will appear in `/Output`.
     -   Research data (keywords, etc.) will appear in `/Brain`.
+
+## IDE Configuration
+
+By default, this project is configured for **Google Antigravity**. To use it with other AI coding assistants, you'll need to rename the configuration folder and main rule file.
+
+### Configuration Quick Reference
+
+| IDE / Tool | Folder Name | Main Rule File |
+|------------|-------------|----------------|
+| **Google Antigravity** (default) | `.agent/` | `rules/lafiel-orchestrator.md` |
+| **VS Code (GitHub Copilot)** | `.github/` | `copilot-instructions.md` |
+| **Cursor** | `.cursor/` | `rules/lafiel-orchestrator.mdc` |
+| **Claude Code** | `.claude/` | `CLAUDE.md` |
+
+---
+
+### Google Antigravity (Default)
+No changes needed—works out of the box.
+
+---
+
+### VS Code (GitHub Copilot)
+
+1. Rename the folder:
+   ```bash
+   mv .agent .github
+   ```
+
+2. Rename and move the main orchestrator file:
+   ```bash
+   mv .github/rules/lafiel-orchestrator.md .github/copilot-instructions.md
+   ```
+
+3. The sub-agent rules in `.github/rules/` will still be referenced by the orchestrator.
+
+---
+
+### Cursor
+
+1. Rename the folder:
+   ```bash
+   mv .agent .cursor
+   ```
+
+2. Rename the main orchestrator file (Cursor uses `.mdc` extension):
+   ```bash
+   mv .cursor/rules/lafiel-orchestrator.md .cursor/rules/lafiel-orchestrator.mdc
+   ```
+
+3. Cursor will automatically pick up rules from `.cursor/rules/`.
+
+---
+
+### Claude Code
+
+1. Rename the folder:
+   ```bash
+   mv .agent .claude
+   ```
+
+2. Rename and move the main orchestrator file:
+   ```bash
+   mv .claude/rules/lafiel-orchestrator.md .claude/CLAUDE.md
+   ```
+
+3. Claude Code reads from `CLAUDE.md` in the `.claude/` directory.
+
+---
 
 ## Directory Structure
 -   `Input/`: Where you put the Job Description.

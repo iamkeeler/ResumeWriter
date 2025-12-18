@@ -162,5 +162,5 @@ trigger: always_on
 
 - Markdown code block for easy copy/paste
 - Standard keyboard characters only
-- Hyperlinks formatted as [text](url)
+- Hyperlinks formatted as [url](url)
 - Clean, readable structure

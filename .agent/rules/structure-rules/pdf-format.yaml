@@ -1,0 +1,45 @@
+---
+# Document Structure
+documentclass: article
+geometry: 
+  - margin=0.75in
+  - top=0.5in
+  - bottom=0.5in
+papersize: letter
+
+# Typography
+mainfont: Helvetica Neue
+sansfont: Helvetica Neue
+fontsize: 11pt
+linestretch: 1.15
+
+# Section Styling
+secnumdepth: 0
+indent: false
+
+# Header/Footer
+pagestyle: empty
+
+# Colors (for links and accents)
+colorlinks: true
+linkcolor: [0.2, 0.4, 0.6]
+urlcolor: [0.2, 0.4, 0.6]
+
+# PDF Metadata
+title: Your Name - Resume
+author: Your Name
+subject: Professional Resume
+keywords: [your, key, skills]
+
+# Spacing Control
+block-headings: true
+header-includes: |
+  \usepackage{titlesec}
+  \usepackage{enumitem}
+  \titlespacing{\section}{0pt}{12pt}{6pt}
+  \titlespacing{\subsection}{0pt}{8pt}{4pt}
+  \titleformat{\section}{\Large\bfseries\sffamily}{\thesection}{0em}{}[\titlerule]
+  \titleformat{\subsection}{\large\bfseries\sffamily}{\thesubsection}{0em}{}
+  \setlist{nosep, leftmargin=1.5em}
+  \pagenumbering{gobble}
+---
