@@ -19,7 +19,7 @@ trigger: always_on
 - Use your full professional name
 - This is the primary identifier, make it prominent
 
-## 2. Target Role Title
+## 2. Target Role Title - Company
 
 **Format:** Subtitle directly under your name
 **Purpose:** Immediately shows the hiring manager what position you're applying for
