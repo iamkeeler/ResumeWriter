@@ -15,7 +15,7 @@ location:
   city: "Menomonie"
   state: "Wisconsin"
   country: "United States"
-  coordinates: "44.8729Â° N, 91.7326Â° W"
+  coordinates: "44.8729° N, 91.7326° W"
 
 professional_summary: "Strategic product and marketing leader with 14+ years of progressive experience bridging UX design, enterprise software development, and digital healthcare innovation. Proven ability to scale organizations 300%, drive $55M+ pipeline value, and establish design cultures at enterprise scale."
 
@@ -30,11 +30,11 @@ profile_links:
   sessionize: "sessionize.com/gary-keeler"
 
 current_role:
-  title: "Sr Director of Marketing, Brand and Creative"
+  title: "Sr Director of Marketing, UX, Brand and Creative"
   company: "Veranex Solutions"
   location: "Minneapolis, Minnesota"
-  start_date: "2024-04-01"
-  end_date: "2025-012-01"
+  start_date: "2023-03-01"
+  end_date: "2025-12-01"
   industry: "Medtech / Healthcare"
   company_description: "Comprehensive medtech service provider combining regulatory expertise, product development, and market access services for the medical device industry"
 
@@ -58,13 +58,13 @@ teaching_experience:
 
 career_history:
   - position: 1
-    title: "Sr Director of Marketing, UXBrand and Creative"
+    title: "Sr Director of Marketing, UX, Brand and Creative"
     company: "Veranex Solutions"
     location: "Minneapolis, Minnesota"
-    start_date: "2024-04-01"
+    start_date: "2023-03-01"
     end_date: "2025-12-01"
     current: false
-    duration_years: 1.8
+    duration_years: 2.75
     highlights:
       - "Leading enterprise-scale product strategy and marketing growth across healthcare and technology sectors"
       - "Architected website product strategy and redesign (v1.0 to v3.0) aligned with 10x lead generation goal"
@@ -205,7 +205,7 @@ career_history:
     duration_years: 9.08
     highlights:
       - "Co-founded and led UX for most popular Craigslist browser for Android"
-      - "App metrics: 4.5+ million downloads, 2.5+ million active monthly users"
+      - "App metrics: 6 million downloads, 2.5+ million active monthly users"
       - "Focused on pristine user experience for primary user tasks"
       - "Maintained app across 9+ years of development and market evolution"
 
@@ -445,7 +445,7 @@ content_contributions:
     - "Medical Device Vigilance: Important Considerations to Comply With the EU MDR"
     - "Meet the Team: Danita Harris, SVP and General Manager of Data Management and Analytics"
     - "Growth of the life sciences and medtech industry in India was apparent at BioAsia 2023"
-    - "MedTech Pioneers â€“ Promaxo: The Future of MRI Guided Diagnosis and Treatment"
+    - "MedTech Pioneers — Promaxo: The Future of MRI Guided Diagnosis and Treatment"
     - "Digital Healthcare: To Discovery and Beyond"
 
   youtube_appearances:
@@ -487,7 +487,7 @@ digital_platforms:
       project_views: "883+"
 
   linkedin:
-    headline: "Sr Director of Marketing, Brand and Creative"
+    headline: "Sr Director of Marketing, UX, Brand and Creative"
     followers: "Professional network"
     endorsements: "Multiple skill endorsements"
     recommendations: "Multiple recommendations"
@@ -525,7 +525,7 @@ personal_brand:
 
 personal_life:
   location: "Menomonie, Wisconsin"
-    resident_since: 2019
+  resident_since: 2019
   family_status: "Married 17+ years"
   children: "Yes"
   hobbies:
@@ -639,7 +639,7 @@ career_milestones:
   - year: 2023
     milestone: "Transitioned to Director of Marketing Technology at Veranex"
   - year: 2024
-    milestone: "Promoted to Sr Director of Marketing, Brand and Creative at Veranex"
+    milestone: "Promoted to Sr Director of Marketing, UX, Brand and Creative at Veranex"
 
 media_and_press:
   - publication: "Raw Deal"
@@ -695,7 +695,7 @@ metadata:
 
 ## Quick Profile
 
-**Gary Keeler** (iamkeeler) is a strategic product and marketing leader based in Menomonie, Wisconsin, with 14+ years of experience at the intersection of UX design, enterprise software development, and digital healthcare innovation. Currently serving as Sr Director of Marketing, Brand and Creative at Veranex Solutions, Gary has built a career around scaling teams, driving substantial business impact, and establishing design cultures that improve workers' lives at scale.
+**Gary Keeler** (iamkeeler) is a strategic product and marketing leader based in Menomonie, Wisconsin, with 14+ years of experience at the intersection of UX design, enterprise software development, and digital healthcare innovation. Currently serving as Sr Director of Marketing, UX, Brand and Creative at Veranex Solutions, Gary has built a career around scaling teams, driving substantial business impact, and establishing design cultures that improve workers' lives at scale.
 
 ## Career Trajectory Overview
 
