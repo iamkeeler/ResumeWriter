@@ -1,0 +1,37 @@
+{
+    "ats_score": 87,
+    "ats_breakdown": {
+        "keyword_match": {
+            "score": 91,
+            "weighted": 36.4
+        },
+        "experience_relevance": {
+            "score": 95,
+            "weighted": 23.75,
+            "note": "14+ years PM, production agentic AI experience"
+        },
+        "skills_alignment": {
+            "score": 88,
+            "weighted": 13.2
+        },
+        "education": {
+            "score": 75,
+            "weighted": 7.5
+        },
+        "format_quality": {
+            "score": 100,
+            "weighted": 10.0
+        },
+        "bonuses": {
+            "total_bonus": 4.0
+        }
+    },
+    "fact_check_status": "PASS",
+    "fact_check_details": {
+        "claims_audited": 38,
+        "verified": 38,
+        "fabricated": 0
+    },
+    "approval_decision": "APPROVED",
+    "summary": "Strong resume for U.S. Bank AI PM. Agentic AI experience is exact match for role. LLM integration, product launches ($6M ARR), and cross-functional collaboration all directly address JD. Self-starter narrative reinforced with Inc. 30 Under 30 and startup experience. Minor industry gaps (freight/banking) mitigated by enterprise B2B scale (Amazon, Walmart, Disney clients)."
+}

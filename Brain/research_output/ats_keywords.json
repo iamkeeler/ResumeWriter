@@ -1,0 +1,181 @@
+{
+    "job_title": "Senior Product Manager - AI",
+    "company": "U.S. Bank",
+    "extraction_date": "2025-12-30",
+    "keywords": [
+        {
+            "term": "Product Management",
+            "category": "hard_skill",
+            "priority": 10,
+            "frequency_in_jd": 5,
+            "kb_coverage": "high"
+        },
+        {
+            "term": "AI Products/AI-first Mindset",
+            "category": "hard_skill",
+            "priority": 10,
+            "frequency_in_jd": 8,
+            "kb_coverage": "high"
+        },
+        {
+            "term": "Agentic AI",
+            "category": "hard_skill",
+            "priority": 10,
+            "frequency_in_jd": 5,
+            "kb_coverage": "high"
+        },
+        {
+            "term": "LLMs/LangChain/AutoGPT",
+            "category": "hard_skill",
+            "priority": 9,
+            "frequency_in_jd": 2,
+            "kb_coverage": "high"
+        },
+        {
+            "term": "ML Workflows",
+            "category": "hard_skill",
+            "priority": 8,
+            "frequency_in_jd": 1,
+            "kb_coverage": "medium"
+        },
+        {
+            "term": "SaaS Architecture",
+            "category": "hard_skill",
+            "priority": 8,
+            "frequency_in_jd": 1,
+            "kb_coverage": "high"
+        },
+        {
+            "term": "API Integrations",
+            "category": "hard_skill",
+            "priority": 8,
+            "frequency_in_jd": 1,
+            "kb_coverage": "high"
+        },
+        {
+            "term": "Product Launches",
+            "category": "hard_skill",
+            "priority": 9,
+            "frequency_in_jd": 2,
+            "kb_coverage": "high"
+        },
+        {
+            "term": "Strategic Thinking",
+            "category": "soft_skill",
+            "priority": 9,
+            "frequency_in_jd": 2,
+            "kb_coverage": "high"
+        },
+        {
+            "term": "Voice of Customer",
+            "category": "hard_skill",
+            "priority": 9,
+            "frequency_in_jd": 2,
+            "kb_coverage": "high"
+        },
+        {
+            "term": "Cross-functional Collaboration",
+            "category": "soft_skill",
+            "priority": 9,
+            "frequency_in_jd": 3,
+            "kb_coverage": "high"
+        },
+        {
+            "term": "Ideate and Execute",
+            "category": "soft_skill",
+            "priority": 9,
+            "frequency_in_jd": 2,
+            "kb_coverage": "high"
+        },
+        {
+            "term": "Self-starter/Self-learner",
+            "category": "soft_skill",
+            "priority": 8,
+            "frequency_in_jd": 2,
+            "kb_coverage": "high"
+        },
+        {
+            "term": "Product Development",
+            "category": "hard_skill",
+            "priority": 9,
+            "frequency_in_jd": 3,
+            "kb_coverage": "high"
+        },
+        {
+            "term": "Product Positioning",
+            "category": "hard_skill",
+            "priority": 8,
+            "frequency_in_jd": 1,
+            "kb_coverage": "high"
+        },
+        {
+            "term": "Pricing Philosophy",
+            "category": "hard_skill",
+            "priority": 7,
+            "frequency_in_jd": 1,
+            "kb_coverage": "medium"
+        },
+        {
+            "term": "Sales/Operations/Finance Partnership",
+            "category": "soft_skill",
+            "priority": 8,
+            "frequency_in_jd": 2,
+            "kb_coverage": "high"
+        },
+        {
+            "term": "Technology Sponge",
+            "category": "soft_skill",
+            "priority": 7,
+            "frequency_in_jd": 1,
+            "kb_coverage": "high"
+        },
+        {
+            "term": "Customer Needs",
+            "category": "hard_skill",
+            "priority": 9,
+            "frequency_in_jd": 3,
+            "kb_coverage": "high"
+        },
+        {
+            "term": "Bridge-builder",
+            "category": "soft_skill",
+            "priority": 8,
+            "frequency_in_jd": 1,
+            "kb_coverage": "high"
+        },
+        {
+            "term": "Financial Services",
+            "category": "industry",
+            "priority": 7,
+            "frequency_in_jd": 2,
+            "kb_coverage": "medium"
+        },
+        {
+            "term": "Supply Chain/Freight",
+            "category": "industry",
+            "priority": 6,
+            "frequency_in_jd": 3,
+            "kb_coverage": "low"
+        },
+        {
+            "term": "Hybrid Work",
+            "category": "experience",
+            "priority": 5,
+            "frequency_in_jd": 2,
+            "kb_coverage": "high"
+        }
+    ],
+    "total_keywords": 23,
+    "critical_keywords": [
+        "AI Products/AI-first Mindset",
+        "Agentic AI",
+        "Product Management",
+        "LLMs/LangChain",
+        "Product Launches",
+        "Voice of Customer",
+        "Cross-functional Collaboration",
+        "Strategic Thinking",
+        "Ideate and Execute"
+    ],
+    "coverage_percentage": 91
+}

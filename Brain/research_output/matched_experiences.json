@@ -1,0 +1,193 @@
+{
+    "matches": [
+        {
+            "ats_keyword": "AI Products/AI-first Mindset",
+            "kb_source_file": "AI-projects-and-experience.md",
+            "experience_snippet": "Built production agentic AI systems. Multi-agent resume generator. AI-powered content workflows. 3x research acceleration",
+            "metrics": [
+                "Production AI",
+                "3x faster",
+                "Multi-agent systems"
+            ],
+            "relevance_score": 10
+        },
+        {
+            "ats_keyword": "Agentic AI",
+            "kb_source_file": "AI-projects-and-experience.md",
+            "experience_snippet": "Built multi-agent orchestration systems with Claude/GPT. Agentic workflows for creative production. Personal AI chatbot with ML integration",
+            "metrics": [
+                "Multi-agent systems",
+                "Agentic workflows"
+            ],
+            "relevance_score": 10
+        },
+        {
+            "ats_keyword": "LLMs/LangChain/AutoGPT",
+            "kb_source_file": "AI-projects-and-experience.md",
+            "experience_snippet": "LLM integration (Claude, GPT-4). Experimented with LangChain-style agent orchestration. Prompt engineering and function calling",
+            "metrics": [
+                "Claude/GPT integration",
+                "Agent orchestration"
+            ],
+            "relevance_score": 9
+        },
+        {
+            "ats_keyword": "Product Management",
+            "kb_source_file": "Professional-profile.md",
+            "experience_snippet": "14+ years progressive experience. Director-level product roles. $18M portfolio management",
+            "metrics": [
+                "14+ years",
+                "$18M portfolio"
+            ],
+            "relevance_score": 10
+        },
+        {
+            "ats_keyword": "Product Launches",
+            "kb_source_file": "Professional-profile.md",
+            "experience_snippet": "Launched 5+ products from ideation to delivery. 100% on-time completion. $6M ARR product creation",
+            "metrics": [
+                "5+ launches",
+                "100% on-time",
+                "$6M ARR"
+            ],
+            "relevance_score": 10
+        },
+        {
+            "ats_keyword": "SaaS Architecture",
+            "kb_source_file": "product-strategy.md",
+            "experience_snippet": "Services-to-SaaS pivot. Built recurring revenue SaaS business. HubSpot CRM architecture for 50K+ records",
+            "metrics": [
+                "$6M ARR SaaS",
+                "50K+ records"
+            ],
+            "relevance_score": 9
+        },
+        {
+            "ats_keyword": "API Integrations",
+            "kb_source_file": "technical-skills.md",
+            "experience_snippet": "API understanding and engineering handoff. HubSpot, Salesforce integrations. Technical collaboration with engineering",
+            "metrics": [
+                "API integrations",
+                "Engineering handoff"
+            ],
+            "relevance_score": 8
+        },
+        {
+            "ats_keyword": "Voice of Customer",
+            "kb_source_file": "Professional-profile.md",
+            "experience_snippet": "40+ annual research initiatives. 30+ SME interviews. Research-validated roadmap decisions",
+            "metrics": [
+                "40+ initiatives",
+                "30+ interviews"
+            ],
+            "relevance_score": 10
+        },
+        {
+            "ats_keyword": "Cross-functional Collaboration",
+            "kb_source_file": "cross-functional-collaboration.md",
+            "experience_snippet": "Led virtual teams: engineering, design, sales, operations, finance. Aligned 5 business units",
+            "metrics": [
+                "5 BUs",
+                "Sales/ops/finance"
+            ],
+            "relevance_score": 10
+        },
+        {
+            "ats_keyword": "Strategic Thinking",
+            "kb_source_file": "product-strategy.md",
+            "experience_snippet": "Data-backed roadmaps. Impact-vs-effort prioritization. Productization strategy for SaaS pivot",
+            "metrics": [
+                "Strategic frameworks",
+                "$6M ARR outcome"
+            ],
+            "relevance_score": 9
+        },
+        {
+            "ats_keyword": "Ideate and Execute",
+            "kb_source_file": "leadership-achievements.md",
+            "experience_snippet": "Envisioned and executed 5 major product offerings. Concept-to-launch ownership. Self-starter track record at 2 startups",
+            "metrics": [
+                "5 products ideated/launched",
+                "2 startups co-founded"
+            ],
+            "relevance_score": 10
+        },
+        {
+            "ats_keyword": "Self-starter/Self-learner",
+            "kb_source_file": "AI-projects-and-experience.md",
+            "experience_snippet": "Self-taught AI/ML implementation. Built personal AI systems from scratch. Inc. 30 Under 30 co-founder",
+            "metrics": [
+                "Self-taught AI",
+                "30 Under 30"
+            ],
+            "relevance_score": 9
+        },
+        {
+            "ats_keyword": "Product Development",
+            "kb_source_file": "Professional-profile.md",
+            "experience_snippet": "End-to-end product lifecycle ownership. 5+ products launched. Design thinking methodology",
+            "metrics": [
+                "5+ products",
+                "End-to-end"
+            ],
+            "relevance_score": 10
+        },
+        {
+            "ats_keyword": "Product Positioning",
+            "kb_source_file": "product-strategy.md",
+            "experience_snippet": "Go-to-market strategy. Sales pitch decks and demos. Competitive positioning for enterprise products",
+            "metrics": [
+                "GTM strategy",
+                "Sales enablement"
+            ],
+            "relevance_score": 8
+        },
+        {
+            "ats_keyword": "Sales/Operations/Finance Partnership",
+            "kb_source_file": "cross-functional-collaboration.md",
+            "experience_snippet": "Partnered with sales, operations, finance teams. Executive stakeholder management. P&L ownership ($18M)",
+            "metrics": [
+                "$18M P&L",
+                "Cross-functional"
+            ],
+            "relevance_score": 9
+        },
+        {
+            "ats_keyword": "Bridge-builder",
+            "kb_source_file": "cross-functional-collaboration.md",
+            "experience_snippet": "Aligned 5 business units. Unified fragmented teams. Data-driven stakeholder communication",
+            "metrics": [
+                "5 BUs unified",
+                "Stakeholder alignment"
+            ],
+            "relevance_score": 9
+        },
+        {
+            "ats_keyword": "Customer Needs",
+            "kb_source_file": "Professional-profile.md",
+            "experience_snippet": "Customer discovery with enterprise clients. Productization based on client needs analysis",
+            "metrics": [
+                "100+ clients",
+                "Enterprise discovery"
+            ],
+            "relevance_score": 9
+        }
+    ],
+    "coverage_summary": {
+        "total_ats_keywords": 23,
+        "matched_keywords": 21,
+        "coverage_percentage": 91,
+        "gap_keywords": [
+            "Supply Chain/Freight specific",
+            "Financial services banking"
+        ]
+    },
+    "kb_files_referenced": [
+        "AI-projects-and-experience.md",
+        "Professional-profile.md",
+        "product-strategy.md",
+        "cross-functional-collaboration.md",
+        "leadership-achievements.md",
+        "technical-skills.md"
+    ]
+}

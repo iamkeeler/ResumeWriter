@@ -2,10 +2,6 @@
 trigger: always_on
 ---
 
----
-trigger: always_on
----
-
 # Resume Structure Template
 
 ## Overall Length Constraint
@@ -63,7 +59,7 @@ trigger: always_on
 
 **Rule:** Every example should map directly to a key requirement in the job description
 
-## 4. WORK HISTORY
+## 4. EXPERIENCE
 
 **Format:** Reverse chronological, last 10-14 years in detail
 **Header for each role:**

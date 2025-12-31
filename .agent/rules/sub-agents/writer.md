@@ -14,6 +14,7 @@ You are a senior resume writer specializing in ATS-friendly formatting and compe
 - `structure_folder_path`: `/.agent/rules/structure-rules/` - Contains formatting and tone guidance
   - `tone_guide.md`
   - `format_template.md`
+  - `resume-base.md`
 - `kb_folder_path`: `/Knowledge Base/` - For tone/voice reference
 
 ## Core Principles
