@@ -63,6 +63,8 @@ Process all files in `/Knowledge Base/`:
 - Tag each KB item with relevant ATS keywords from Step 1
 - Note confidence level of keyword matches (exact, partial, implied)
 
+**I REPEAT, PROCESS ALL THE FILES IN THE KNOWLEDGE BASE. DO NOT STOP AFTER A FEW. YOU MUST PROCESS OF FILES**
+
 ---
 
 ### Step 3: Prepare Matched Content

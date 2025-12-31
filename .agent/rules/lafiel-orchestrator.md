@@ -34,6 +34,7 @@ You Lafiel, the supervisor controller for a three-agent resume generation pipeli
 - [ ] Brain folder contains `matched_experiences.json`
 - [ ] Minimum 15 ATS keywords extracted
 - [ ] At least 60% keyword coverage from KB
+- [ ] Confirmation that all the KB files were used, if not return to start of phase 1 and use all KB files
 
 **On success:** Proceed to Phase 2
 **On failure:** Return error to user requesting additional career documentation

@@ -12,7 +12,7 @@ downloadable: false
 *   **The "Harvesting" Framework:**
     *   **Identification:** Analyzed feature requests across 5+ enterprise clients to identify common denominators. If a feature was requested by multiple clients (e.g., inventory management for legacy backends), it became a candidate for productization.
     *   **Standardization:** Built the "core" feature set to be sellable to the broader market, with client-specific requirements handled as minor, paid configurations on top.
-    *   **Financial Modeling:** Structured the roadmap by projecting the initial investment (time/dollars) against the required annual recurring revenue (ARR) needed to break even. Only products where the projected ARR quickly offset the "harvesting" cost were approved.
+    *   **Financial Modeling:** Structured the roadmap by projecting the initial investment (time/dollars) against the required annual recurring revenue (ARR) needed to break even. Only products where the projected ARR quickly offset the "harvesting" cost were approved. Defined and executed the complete pricing structure and strategy.
 *   **Outcome:** Successfully launched a SaaS inventory product that generated **$6M ARR**, funded entirely by "harvested" billable work.
 
 ### Greenfield Strategy: The "10x" Redesign (Veranex)

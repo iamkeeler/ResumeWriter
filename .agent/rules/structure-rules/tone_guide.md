@@ -162,158 +162,31 @@ Incorporate industry-specific terms and job description keywords organically.
 
 ---
 
-## Section-Specific Tone
+# FOLLOW THIS WRITING STYLE:
 
-### Summary / Professional Summary
-**Length:** 2-3 sentences maximum
-**Tone:** Confident, strategic, high-level
-**Content:** Title + Years + Domains + Top 1-2 achievements
+• SHOULD use clear, simple language.
+• SHOULD be spartan and informative.
+• SHOULD use short, impactful sentences.
+• SHOULD use active voice; avoid passive voice.
+• SHOULD focus on practical, actionable insights.
+• SHOULD use bullet point lists in social media posts.
+• SHOULD use data and examples to support claims when possible.
+• SHOULD use “you” and “your” to directly address the reader.
+• AVOID using em dashes (—) anywhere in your response. Use only commas, periods, or other standard punctuation. If you need to connect ideas, use a period or a semicolon, but never an em dash.
+• AVOID constructions like "...not just this, but also this".
+• AVOID metaphors and clichés.
+• AVOID generalizations.
+• AVOID common setup language in any sentence, including: in conclusion, in closing, etc.
+• AVOID output warnings or notes, just the output requested.
+• AVOID unnecessary adjectives and adverbs.
+• AVOID hashtags.
+• AVOID semicolons.
+• AVOID markdown.
+• AVOID asterisks.
+• AVOID these words:
+“can, may, just, that, very, really, literally, actually, certainly, probably, basically, could, maybe, delve, embark, enlightening, esteemed, shed light, craft, crafting, imagine, realm, game-changer, unlock, discover, skyrocket, abyss, not alone, in a world where, revolutionize, disruptive, utilize, utilizing, dive deep, tapestry, illuminate, unveil, pivotal, intricate, elucidate, hence, furthermore, realm, however, harness, exciting, groundbreaking, cutting-edge, remarkable, it, remains to be seen, glimpse into, navigating, landscape, stark, testament, in summary, in conclusion, moreover, boost, skyrocketing, opened up, powerful, inquiries, ever-evolving"
 
-**Example:**
-"Strategic product and marketing leader with 14+ years bridging UX design, enterprise software, and digital healthcare innovation. Proven ability to scale teams 300%, drive $55M pipeline value, and establish design cultures at enterprise scale."
-
-**Pattern:**
-[Role] + [Experience] + [Domain expertise] + [Quantified proof points]
-
----
-
-### Experience Bullets
-**Tone:** Achievement-focused, specific, results-driven
-**Structure:** Action + Context + Result
-
-**Strong examples:**
-- ✅ "Architected website redesign aligned with 10x lead generation goal, achieving 1400% conversion improvement and 3x traffic increase within 6 months"
-  - *Action: Architected*
-  - *Context: aligned with 10x goal*
-  - *Result: 1400% conversion, 3x traffic, 6 months*
-
-- ✅ "Established design critique culture across 3 business units serving 700+ employees, reducing design iteration cycles by 30%"
-  - *Action: Established*
-  - *Context: across 3 BUs, 700 employees*
-  - *Result: 30% reduction*
-
-**Weak examples:**
-- ❌ "Responsible for website redesign efforts"
-- ❌ "Helped improve team culture"
-- ❌ "Worked with stakeholders on various projects"
-
----
-
-### Skills Section
-**Tone:** Organized, scannable, keyword-rich
-**Format:** Categorized lists (not sentences)
-
-**Example:**
-```
-SKILLS
-
-Product & Strategy
-Product Strategy Development | Product Roadmap Development | Go-to-Market Strategy | Feature Prioritization | Competitive Analysis
-
-Design & UX
-User Experience Design | Design Systems | Figma | Prototyping | User Research | Information Architecture | Accessibility (WCAG 2.1)
-
-Leadership & Operations
-Team Scaling | Cross-Functional Collaboration | Agile/Scrum | Stakeholder Management | Design Operations
-```
-
-**Use:** Pipes (|) or bullets (•) between skills—not commas
-**Avoid:** Rating systems (bars, stars) or vague "proficiency levels"
-
----
-
-## What to Avoid
-
-### Language Pitfalls
-❌ **Passive voice:** "Was responsible for," "Was tasked with"
-✅ **Active voice:** "Led," "Managed," "Delivered"
-
-❌ **Clichés:** "Team player," "Detail-oriented," "Results-driven" (as standalone phrases)
-✅ **Specific examples:** Demonstrate these qualities through achievements
-
-❌ **Jargon overload:** "Synergized cross-functional alignment to optimize stakeholder engagement"
-✅ **Clear language:** "Aligned product, design, and engineering teams on quarterly roadmap"
-
-❌ **Vague claims:** "Significantly improved performance"
-✅ **Specific metrics:** "Improved page load time by 60% (3.2s to 1.3s)"
-
-### Tone Mistakes
-❌ **Overly humble:** "Assisted with" / "Helped the team"
-✅ **Ownership:** "Led" / "Delivered" / "Drove"
-
-❌ **Overly boastful:** "Single-handedly revolutionized the industry"
-✅ **Confident realism:** "Established company's first design system, adopted across 5 product teams"
-
-❌ **Robotic/Generic:** "Utilized best practices to achieve optimal outcomes"
-✅ **Human/Specific:** "Applied atomic design methodology to reduce component inconsistencies by 75%"
-
----
-
-## ATS Compatibility Checklist
-
-✅ Use standard section headers: SUMMARY, EXPERIENCE, SKILLS, EDUCATION
-✅ Avoid tables, text boxes, columns, headers/footers
-✅ Use standard fonts: Arial, Calibri, Times New Roman
-✅ Save as .docx or simple PDF (not image-based PDF)
-✅ Integrate keywords naturally throughout
-✅ Use standard bullet points (• or -)
-✅ Keep formatting simple and consistent
-
----
-
-## Final Quality Check
-
-Before finalizing any resume, verify:
-
-**Voice:**
-- [ ] No personal pronouns (I, my, me)
-- [ ] All bullets start with strong action verbs
-- [ ] Tense is consistent within each role (present for current, past for previous)
-
-**Tone:**
-- [ ] Confident and direct (no hedging language)
-- [ ] Results-focused (outcomes, not just tasks)
-- [ ] Professional yet authentic (not robotic)
-
-**Metrics:**
-- [ ] Every claim supported by specific numbers where possible
-- [ ] Scale indicated (team sizes, budgets, timelines)
-- [ ] Impact quantified (percentages, dollar amounts, time saved)
-
-**Keywords:**
-- [ ] Industry terms integrated naturally
-- [ ] Job description keywords woven into achievements
-- [ ] No keyword stuffing or unnatural repetition
-
-**Format:**
-- [ ] Consistent date format throughout
-- [ ] Consistent bullet style throughout
-- [ ] No ATS-breaking elements (tables, graphics)
-- [ ] Standard section headers used
-
----
-
-## Reference Examples
-
-### WEAK Bullet (Before)
-"Responsible for managing the design team and working with stakeholders on various projects to improve the user experience."
-
-**Issues:**
-- Passive voice ("responsible for")
-- Weak verb ("working with")
-- Vague ("various projects," "improve")
-- No metrics or results
-
-### STRONG Bullet (After)
-"Led cross-functional team of 8 designers through discovery, design, and delivery of enterprise CRM redesign, achieving 25% increase in user satisfaction scores and 40% reduction in support tickets."
-
-**Improvements:**
-✅ Strong action verb ("Led")
-✅ Specific scope ("8 designers," "enterprise CRM")
-✅ Clear process ("discovery, design, delivery")
-✅ Quantified results ("25% satisfaction," "40% fewer tickets")
-
----
+# IMPORTANT: Review your response and ensure no em dashes!
 
 ## Summary
 
