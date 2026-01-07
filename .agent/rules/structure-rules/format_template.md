@@ -19,7 +19,7 @@ trigger: always_on
 ## 1. Name & Contact Header
 
 **Format:**
-- Line 1: **Name** (large, bold heading)
+- Line 1: **Name** (large, bold heading) - [Role Title]
 - Line 2: Location | Email | Phone | LinkedIn URL | Website URL
 
 **Include:**
@@ -33,7 +33,7 @@ trigger: always_on
 
 **Format:** 1 Sentence elevator pitch with 2-3 proofpoints as a hook
 **Purpose:** Elevator pitch with quantifiable achievements
-**Length:** ~75-100 words
+**Length:** ~50-75 words
 
 **Include:**
 - Opening statement with years of experience + core expertise
@@ -64,6 +64,7 @@ trigger: always_on
 
 **Format:** Reverse chronological, last 10-14 years in detail
 **Header for each role:**
+**Never Combine or Change role titles**
 ```
 **Job Title | Company Name | City, State | Month Year - Month Year**
 ```
